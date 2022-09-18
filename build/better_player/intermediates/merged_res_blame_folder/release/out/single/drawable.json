@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/decimal/safetyfirst/build/better_player/intermediates/res/merged/release/drawable/exo_rounded_rectangle.xml",
+        "source": "/home/decimal/.gradle/caches/transforms-2/files-2.1/6e85a5a0482dd8fe8febd0971be10977/jetified-exoplayer-ui-2.17.1/res/drawable/exo_rounded_rectangle.xml"
+    },
+    {
+        "merged": "/home/decimal/safetyfirst/build/better_player/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/home/decimal/.gradle/caches/transforms-2/files-2.1/b9a960218f5163997c0fdfa3d3078c0e/core-1.7.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/decimal/safetyfirst/build/better_player/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/home/decimal/.gradle/caches/transforms-2/files-2.1/b9a960218f5163997c0fdfa3d3078c0e/core-1.7.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/decimal/safetyfirst/build/better_player/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/home/decimal/.gradle/caches/transforms-2/files-2.1/b9a960218f5163997c0fdfa3d3078c0e/core-1.7.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/decimal/safetyfirst/build/better_player/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/home/decimal/.gradle/caches/transforms-2/files-2.1/b9a960218f5163997c0fdfa3d3078c0e/core-1.7.0/res/drawable/notification_tile_bg.xml"
+    }
+]
